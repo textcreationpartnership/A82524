@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All the ordinances of the Lors [sic] and Commons assembled in Parliament: for the true payment of tythes, and other such duties according to the lawes and customes of this realme Ordered by the Lords in Parliament assembled, that these ordinances for the due payment of all tythes and such other duties, be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <title>Proceedings</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82524</idno>
+            <idno type="STC">Wing E1201</idno>
+            <idno type="STC">ESTC R232115</idno>
+            <idno type="EEBO-CITATION">99897822</idno>
+            <idno type="PROQUEST">99897822</idno>
+            <idno type="VID">170959</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170959)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2532:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All the ordinances of the Lors [sic] and Commons assembled in Parliament: for the true payment of tythes, and other such duties according to the lawes and customes of this realme Ordered by the Lords in Parliament assembled, that these ordinances for the due payment of all tythes and such other duties, be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <title>Proceedings</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Wright at the Kings Head in the Old-Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170959:1" rendition="simple:additions"/>
+            <p>All the ORDINANCES OF THE LORS and COMMONS Aſſembled in PARLIAMENT: For the true Payment of TYTHES, And other ſuch Duties according to the Lawes and Cuſtomes of this Realme.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords in Parliament Aſſembled, That theſe Ordinances for the due Payment of all Tythes and ſuch other Duties, be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Wright</hi> at the Kings Head in the Old-Bayley.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:170959:2"/>
+            <pb n="1" facs="tcp:170959:2"/>
+            <head>
+               <hi>Die Veneris,</hi> 8. <hi>Novemb.</hi> 1644. An Ordinance of the Lords and Commons Aſſembled in Parliament, for the true payment of Tythes and other ſuch Duties, according to the Laws and Cuſtoms of this Realme.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers perſons within the Realme of <hi>England</hi> and Dominion of <hi>Wales,</hi> taking advantage of the preſent diſtractions, and ayming at their owne profit, have refuſed, and ſtill do refuſe to ſet out, yeeld, and pay Tyths, Offe<g ref="char:EOLhyphen"/>rings, Oblations, Obventions, and other ſuch du<g ref="char:EOLhyphen"/>ties, according to the Law of the ſaid Realme, to which they are the more incouraged both beauſe there is not now any ſuch compulſary meanes for recovery of them by any Eccleſiaſticall proceedings, as hereto<g ref="char:EOLhyphen"/>fore hath beene; and alſo for that by reaſon of the pre<g ref="char:EOLhyphen"/>ſent troubles, there cannot be had ſpeedy remedy for them in the temporall Courts, although they remain ſtill due, and of right payable, as in former times. Be it therefore Declared and Ordained, by the Lords and Commons in Parliament aſſembled, that every perſon &amp; perſons whatſoever within the ſaid Realme and Dominion ſhall fully, truly and effectually ſet out, yeeld, and pay reſpectively all and ſingular Tythes, Of<g ref="char:EOLhyphen"/>ferings, Oblations, Obventions, Rates for Tythes, and all other Duties commonly knowne by the name
+<pb n="2" facs="tcp:170959:3"/>
+of Tythes, and all arreares of them reſpectively to all and every the reſpective owners, Proprietors, Im<g ref="char:EOLhyphen"/>proprietors, and poſſeſſors, as well Lay as Eccleſiaſti<g ref="char:EOLhyphen"/>call reſpectively, their Executors and Adminiſtrators of Parſonages, Vicarages, or Rectories, either im<g ref="char:EOLhyphen"/>propriate or preſentative, or donative, and of Vicara<g ref="char:EOLhyphen"/>ges, and of portions of Tythes reſpectively within the ſaid Realme and Dominion, according to the Law, cuſtome, preſcription, compoſition or contract reſpe<g ref="char:EOLhyphen"/>ctively, by which they or any of them ought to have been ſet up, yeelded and paid at the beginning of this preſent Parliament, or two yeares before. And in all and every care where any perſon or perſons hath at a<g ref="char:EOLhyphen"/>ny time ſince the beginning of this preſent Parliament or two yeares before, ſubſtracted, withdrawne, or failed in due payment of or hereafter at any time ſhall ſubſtract, withdraw, or faile in due payment of any ſuch Tythes, Offerings, Oblations, Obventions, Rates for Tythes, or any duty known by the name of Tythes, or Arreares of them or any of them, as afore<g ref="char:EOLhyphen"/>ſaid, the perſon or perſons to whom the ſame is, hath beene, or ſhall be reſpectively due, his Executors or Adminiſtrators, ſhall and may make his and their complaints thereof to any two Iuſtices of Peace within the ſame County, City, Towne, Place, Ri<g ref="char:EOLhyphen"/>ding, or Diviſion, not being Patron nor Patrons of the Church where ſuch ſubſtraction, witwdrawing, or failer of payment hath been or ſhall be; not being in<g ref="char:EOLhyphen"/>tereſſed any way in the things in queſtion: Which Iu<g ref="char:EOLhyphen"/>ſtices of Peace are Authorized hereby, and ſhall have full power to ſummon by reaſonable warning before hand, all and every ſuch perſon or perſons againſt whom any ſuch complaints ſhall be made to them,
+<pb n="3" facs="tcp:170959:3" rendition="simple:additions"/>
+and after his or their appearance before them, or upon default made after the ſecond ſummons, the ſaid ſum<g ref="char:EOLhyphen"/>mons being made as aforeſaid, and proved before the ſaid Iuſtices by Oath, which ſaid Iuſtices hereby ſhall have power to adminiſter the ſame, to heare and determine the ſaid complaint, by ſending for, and exa<g ref="char:EOLhyphen"/>mining witneſſes upon Oath, which ſaid Oath the ſaid Iuſtices are hereby alſo authorized to Miniſter, and admitting other proofs brought on either ſide, and thereupon ſhall in writing under their Hands and Seales adiudge the caſe, and give reaſonable coſts and damage to either party, as in their iudgements they ſhall think fit.</p>
+            <p>And be it further Ordained by the Authoritie afore<g ref="char:EOLhyphen"/>ſaid, That if any perſon or perſons ſhall refuſe to pay any ſuch Tythes or ſums of money as upon ſuch com<g ref="char:EOLhyphen"/>plaint, and proceeding ſhall be by any ſuch Iuſtices of Peace adiudged as aforeſaid: and ſhall not within thir<g ref="char:EOLhyphen"/>ty dayes next after notice of ſuch iudgement in writing under the hand &amp; ſeal of ſuch Iuſtices of Peace given to him or them, make full ſatisfaction thereof, according to the ſaid iudgement, in every ſuch caſe the perſon and perſons reſpectively to whom any ſuch Tythes or ſums of money ſhall be upon ſuch iudgement due, ſhall and may by warrant from the ſaid Iuſtices, or either of them, diſtrain all and every, or any the goods and Chattels of the party or parties ſo refuſing, and of the ſame to make ſale, and to retain to himſelf, or them<g ref="char:EOLhyphen"/>ſelves ſo much of the monies raiſed by ſale thereof, as may ſatisfie the ſaid iudgement, returning the over<g ref="char:EOLhyphen"/>plus thereof to the party or parties ſo refuſing. And in caſe no ſufficient diſtreſſe can be found, that then the ſaid Iuſtices of Peace, or any other Iuſtices of Peace
+<pb n="4" facs="tcp:170959:4"/>
+of the ſame County, as aforeſaid, ſhall and may com<g ref="char:EOLhyphen"/>mit all and every ſuch perſon and perſons ſo refuſing to the next common Goale of the ſaid County, there to remaine in ſafe cuſtody without baile or mainprize, untill he or they reſpectively ſhall make full ſatisfacti<g ref="char:EOLhyphen"/>on, according to the ſaid iudgement.</p>
+            <p>Provided alwaies, and it is further Ordained by the Authority aforeſaid, that if any perſon or perſons ſhall thinke him or themſelves uniuſtly dealt with by or in any ſuch iudgement, as aforeſaid, then he or they re<g ref="char:EOLhyphen"/>ſpectively ſhall and may thereof complaine to the high Court of Chancery, where the cauſe between the par<g ref="char:EOLhyphen"/>ties ſhall be againe heard and determined; w<hi rend="sup">t</hi>hich Court ſhall hereby have full power and authoritie to ſummon the parties, and to heare and determine the ſame, and to ſuſpend execution as the ſame Court ſhall ſee cauſe, and to give finall iudgement therein with reaſonable coſts to the party or parties grieved by any ſuch complant brought before them.</p>
+            <p>Provided always that this Ordinance or any thing therein contained, ſhall not extend to any Tythes, Of<g ref="char:EOLhyphen"/>ferings, yeerly payment, or other Eccleſiaſticall duties, due or to be due for any houſes, buidings, or other he<g ref="char:EOLhyphen"/>reditaments within the City of <hi>London</hi> or the Liber<g ref="char:EOLhyphen"/>ties thereof, which be otherwiſe provided for by Act of Parliament.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="5" facs="tcp:170959:4" rendition="simple:additions"/>
+            <head>
+               <hi>Die Lunae</hi> 9. <hi>Auguſt,</hi> 1647. An Additional Ordinance of the Lords and Commons Aſſem<g ref="char:EOLhyphen"/>bled in Parliament, for the true payment of Tyths &amp; other Duties.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas ſome doubts have beene raiſed, whether Miniſters put into Livings and Sequeſtrations by Ordinance of both Houſes of Parliament, or Committees thereunto authorized by them, be comprized within the Ordinance of the eight of November, 1644. <hi>Entituled, An Ordinance of the Lords and Commons Aſſembled in Parliament for the true payment of Tithes, and other ſuch Duties according to the Lawe, and Cuſtome of the Realme,</hi> ſo as to recover their Tithes and other Duties by vertue thereof, and in what manner Juſtices of Peace ought to proceed upon the ſame. The Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament for the prevention of all ſuch doubts and ſcruples, do Declare, that every Miniſter put, or which ſhall be put into any Parſonage, Rectory, Vicarage, or Eccleſiaſti<g ref="char:EOLhyphen"/>call Living, by way of Sequeſtration, or otherwiſe, by both or either the Houſes of Parliament, or by any Committee, or other perſon or perſons by Authority of any Ordinance or Order of Parliament, ſhall, and may ſue for the recovery of his Tithes, Rates for Tithes, Rents or other Duties by vertue of the ſaid Ordinance, in as ful and ample manner to all intents and purpoſes, as any other Miniſter, or other perſon whatſoe<g ref="char:EOLhyphen"/>ver. And that the Juſtices of Peace mentioned in the ſaid Or<g ref="char:EOLhyphen"/>dinance, ſhall upon complaint to them made by any ſuch Mi<g ref="char:EOLhyphen"/>niſter as aforeſaid, or other perſon within the ſaid Ordinance, immediately without delay iſſue out their Warrants to the Conſtables, petty-Conſtables, or other, or other Officers to ſummon ſuch perſon or perſons who already have, or hereafter ſhall refuſe to ſet out, or pay, or ſhall ſubſtract their Tithes,
+<pb n="6" facs="tcp:170959:5"/>
+Rates for Tithes, Rents, or other Duties, to appear before them at their next monethly meeting, or ſooner; and uſe all poſſible expedition in the hearing and determining of ſuch complaints; and ſhall likewiſe have power to award treble damages to the parties complaining, and ſhall award the ſame accordingly in all ſuch Caſes where the ſtatute allowes and gives the ſame to any Miniſter or other perſon whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>And in caſe the ſumme or ſums of money ſo adjudged and awarded, ſhall not be paid within the time in the ſaid Ordi<g ref="char:EOLhyphen"/>nance mentioned, then the ſaid Juſtices ſhall upon complaint to them made, ſend forth their Warrants to the Conſtables, Petty-Conſtables, or ſuch other fit perſons, as ſhall be by the parties named, to whom any ſuch ſum or ſummes upon ſuch Judgement ſhall be due, and deſtrain all and every, or any the Goods and Chattels of any perſon or perſons ſo refuſing; and to ſell and diſpoſe of the ſaid Goods and Chattels according to the ſaid Ordinance; and to impoſe ſuch Fines and Penal<g ref="char:EOLhyphen"/>ties, not exceeding the ſum of Forty ſhillings upon the Con<g ref="char:EOLhyphen"/>ſtables, Petty-Conſtables, and other Officers, who ſhall wilful<g ref="char:EOLhyphen"/>ly refuſe or be negligent in executing their warrants, as they in their diſcretions ſhall thinke meet.</p>
+            <p>And becauſe many appeals are brought into the Chancery upon former Ordinance for Tithes, rather for vexation and delay, then otherwiſe; Be it therefore Ordained, that no Appeale ſhall be received or admitted thereupon, untill the party appealing ſhall lay downe in mony, either with the ſaid Juſtices of Peace, or in the Court of Chancery, the full value of the Tithes adjudged before the ſaid Juſtices, by way of ſe<g ref="char:EOLhyphen"/>curitie, to perſecute his appeale with effect, and to render double coſts and damages to the party injur'd or delayed by the appeale, in caſe no reliefe be given upon the appeale to the perſecutor.</p>
+            <p>
+               <pb n="5" facs="tcp:170959:5" rendition="simple:additions"/>Provided that this Ordinance ſhall continue and be in full force from the foure and twentieth day of July, 1647. untill the firſt day of November, which ſhall be in the yeare, 1648.</p>
+            <closer>
+               <signed>John Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <head>
+               <hi>Die Lunae</hi> 23. <hi>Auguſt,</hi> 1647, An Ordinance for keeping in Godly Mi<g ref="char:EOLhyphen"/>niſters placed in Livings by Authority of <hi>PARLIAMENT.</hi>
+            </head>
+            <p>VVHereas divers Miniſters in the ſeverall Counties of this Kingdome for notorious Scandals and Delinquency, have been put out of their Livings by authori<g ref="char:EOLhyphen"/>ty of Parliament, and Godly, Learned, and Orthodox Mi<g ref="char:EOLhyphen"/>niſters placed in their rooms; And whereas the ſaid Scandalous and Delinquent Miniſters by force, or otherwaies, have en<g ref="char:EOLhyphen"/>tred upon Churches, and gained the poſſeſſion of the parſon<g ref="char:EOLhyphen"/>age-Houſes, Tithes, and Profits thereunto belonging, and have obſtructed the payment of Tithes, and other profits due by the pariſhoners unto the Miniſters placed in the ſaid Churches by Authority aforeſaid.</p>
+            <p>The Lords and Commons Aſſembled in Parliament doe therefore Order and Ordaine, and be it Ordained by the ſaid Lords and Commons, That Sheriffs, Mayor, Bayliffs, Juſtices of the Peace, all Deputy-Lievtenants, and Committees of Parliament in the ſeverall Counties, Cities, and place within this Kingdom, do forthwith apprehend, or cauſe to be appre<g ref="char:EOLhyphen"/>hended all ſuch Miniſters as by Authority of Parliament have
+<pb n="6" facs="tcp:170959:6"/>
+beene put out of any Church or Chappell within this Kingdome, or any other perſon or perſons who have entred upon any ſuch Church or Chappell, or gained the poſſeſſion of ſuch Parſonage houſes, Tythes and Profits thereunto be<g ref="char:EOLhyphen"/>longing, or have obſtructed the payment of the Tithes, and other profits due by the Pariſhioners, to the ſaid Miniſters there placed by Authority of Parliament, or Sequeſtrators appointed, where no Miniſters are ſetled to receive the ſame, and all ſuch perſons as have beene Aiders, Abetters, or Aſſi<g ref="char:EOLhyphen"/>ſtors in the premiſes, and commit them to priſon, there to remaine untill ſatisfaction be made to the ſeverall Miniſters placed by the ſaid Authoritie of Parliament for his or their damages ſuſtained, as to the ſaid Sheriffes, Mayors, Bayliffes, Juſtices of the peace, Deputy-Lieutenants, or Committees of Parliament, or any two of them ſhall appeare to be juſt, up<g ref="char:EOLhyphen"/>on hearing and proofe made upon the Oath of two ſufficient Witneſſes (which they or any two of them are hereby autho<g ref="char:EOLhyphen"/>rized to adminiſter) who are likewiſe required to reſtore, ſettle and quiet the poſſeſſion in ſuch Miniſters as have beene placed by the ſaid Authority of <hi>Parliament,</hi> and they or any two of them have hereby power to raiſe Trained Bands, or any other forces within the ſaid ſeverall Counties, Cities and places to put this Ordinance in execution, and the ſaid She<g ref="char:EOLhyphen"/>riffs, Mayors, Bayliffs, Juſtices of the Peace, Deputy-Lieute<g ref="char:EOLhyphen"/>nants, and Committees of <hi>Parliament</hi> reſpectively, are hereby required to take effectuall courſe according to the ſeverall Orders and Ordinances of <hi>Parliament</hi> in that behalfe made, that all men do pay their Tythes or profits due unto the ſaid reſpective Miniſters. And it is hereby further Ordered and Ordained. That the Committee appointed for the plundred Miniſters have power to ſee this Ordinance put in execution. And it is further Ordained, That the Committee of com<g ref="char:EOLhyphen"/>plaints do give the like remedie to all ſuch Miniſters put in by
+<pb n="7" facs="tcp:170959:6" rendition="simple:additions"/>
+the ſaid Authoritie of <hi>Parliament,</hi> and Sequeſtrators of the profits againſt whom any action ſhall be brought by any ſuch Delinquent, or ſcandalous Miniſters, or any other claiming by or under them for their Livings, Tithes, and profits, as they are authorized unto by any Order or Ordinance in other caſes.</p>
+            <p>It is laſtly Ordered and Ordained, That if any ſuch ſcan<g ref="char:EOLhyphen"/>dalous or Delinquent Miniſter, put out as aforeſaid, their aidors, or abettors, ſhall at any time hereafter, diſturbe, mo<g ref="char:EOLhyphen"/>leſt, or hinder ſuch Miniſter as is put into ſuch Church or Chappell as aforeſaid, in the Exerciſing of the office of his Miniſtry, upon proofe thereof made upon the oath of two Witneſſes, before the ſaid Sheriffs, Mayors, Bayliffs, Juſtices of Peace, Deputy-Lieutenants, or Committees of Parlia<g ref="char:EOLhyphen"/>ment, or any two of them, It ſhall and may be lawfull to and for the ſaid Sheriffes, Mayors, Bailiffes, Juſtices of the Peace, Deputy-Lieutenants, or Committees of <hi>Parliament,</hi> or any two of them, to commit ſuch Offendor or Offendors to pri<g ref="char:EOLhyphen"/>ſon for one Month, ſo often as he or they ſhall ſo offend.</p>
+            <closer>
+               <signed>Joh. Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="8" facs="tcp:170959:7"/>
+            <head>
+               <hi>Die Martis</hi> 4 <hi>Aprill,</hi> 1648. AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in <hi>PARLIAMENT,</hi> For the better payment of Tythes and Duties to the Miniſters of the City of <hi>LONDON.</hi>
+            </head>
+            <p>WHereas by an Ordinance of Parliament of the eight of <hi>Novem. Anno Dom.</hi> 1644. entituled, <hi>An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Paliament, for the true pay<g ref="char:EOLhyphen"/>ment of Tythes, and other ſuch Duties, according to the Lawes and Cuſtoms of the Realme,</hi> there is a Proviſo, That the ſaid Ordinance, or any thing therein contained, ſhall not extend to any Tythes, Offerings, Yearly payments, or other Eccleſiaſticall Duties, due or to be due for any
+<pb n="9" facs="tcp:170959:7" rendition="simple:additions"/>
+houſes, buidings or other hereditaments with<g ref="char:EOLhyphen"/>in the City of <hi>London,</hi> or the Liberties thereof which be otherwiſe provided for by Act of Par<g ref="char:EOLhyphen"/>liament: And whereas ſome doubt and ſcruple hath been made, whether the Lord Mayor of the City of <hi>London</hi> be ſufficently authorized to relieve ſuch Miniſters with<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the ſaid Cities or the Liberties thereof, as have been put into any Benefice or Eccleſiaſticall Living by way of Sequeſtration by both or either houſes of Parliament, or by the Committee of Plundred Miniſters, or any other Committee of Parlia<g ref="char:EOLhyphen"/>ment; Be it therefore Ordered and Ordained by the Lords and Commons in this preſent Parliament Aſſembled, That the ſaid Proviſo in the before mentioned Ordinance of the eight of <hi>Novemb.</hi> 1644. be hereby repealed and wholly made <hi>null</hi> and void, and that the ſaid Ordi<g ref="char:EOLhyphen"/>nance of the eight of <hi>November,</hi> 1644 and the Ordinance of the ninth of <hi>Auguſt</hi> 1647. entitu<g ref="char:EOLhyphen"/>led, <hi>An Additionall Ordinance of the Lords and Commons Aſſembled in Parliament, for the true payment of Tythes and other Duties,</hi> and the Ordinance of the 23. of Auguſt, 1647. en<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>u<g ref="char:EOLhyphen"/>led <hi>An Ordinance for the keeping of Godly Mi<g ref="char:EOLhyphen"/>niſters placed in Livings by authority of Parlia<g ref="char:EOLhyphen"/>ment,</hi> and all other Ordinances of Parliament,
+<pb n="10" facs="tcp:170959:8"/>
+concerning the payment of Tythes, Rates for Tythes, Rents or other Duties, do extend to the ſaid City of <hi>London,</hi> and the Liberties thereof, and be put in execution by the Lord Mayor of the ſaid City for the time being, or by any two Iuſtices of Peace within the ſaid Ci<g ref="char:EOLhyphen"/>tie or Liberties thereof, who are hereby autho<g ref="char:EOLhyphen"/>rized and required reſpectively, to require and command the aid of all Conſtables and other Officers that ſhall be by the ſaid Mayor or Iu<g ref="char:EOLhyphen"/>ſtices of Peace as aforeſaid appointed for their aſſiſtance in the due execution of this Ordinance as well within their ſeverall Pariſhes or pre<g ref="char:EOLhyphen"/>cincts as without, as well in caſes of Seque<g ref="char:EOLhyphen"/>ſtrations as otherwiſe, to all intents and pur<g ref="char:EOLhyphen"/>poſes, and in the like manner as in &amp; by the ſaid Ordinances is Ordained, limited and appoint<g ref="char:EOLhyphen"/>ed to be executed and done, in any other place or places within the Kingdome of <hi>England</hi> by the reſpective Iuſtices of Peace, and other Officers in the ſaid Ordinances mentioned.</p>
+            <p>Provided, That this Ordinance, or any thing therein contained ſhal not be conſtrued to extend to the payment of any other kinde of Tythes, payments, rents or Duties, then ſuch as have been paid at any time ſince the beginning of this Parliament, or two yeares before</p>
+            <closer>
+               <signed>Joh. Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="11" facs="tcp:170959:8" rendition="simple:additions"/>
+            <head>
+               <hi>Die Veneris, 27. Octob. 1648.</hi> An Ordinance of the Lords and Commons aſſembled in Parliament, For the true payment of Tythes and o<g ref="char:EOLhyphen"/>ther Duties, and for continuance of an Ordinance of the ninth of Auguſt, <hi>1647.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons aſſembled in Parliament, Doe Order, Ordaine, and Declare, That the Ordinance of Par<g ref="char:EOLhyphen"/>liament of the ninth of <hi>Auguſt. Anno Dom.</hi> 1647. Intituled, <hi>An additionall Ordinance of the Lords and Commons aſſembled in Parliament, For the true payment of Tythes and other Duties,</hi> ſhall con<g ref="char:EOLhyphen"/>tinue, remaine and be, and hereby is continued to remaine and be in full force and ſtrength, from the laſt day of <hi>October, Anno Dom.</hi> 1648. un<g ref="char:EOLhyphen"/>till the firſt day of <hi>November, Anno Dom.</hi> 1650. any <hi>promiſo</hi> of limitation, or reſtraint for ceaſing, or determination thereof therein contained, or to be contrary in any wiſe notwithſtanding. Provided alwaies that upon all appeales to be brought into the Chancery, the party appealing ſhall lay downe in moneys either with the Juſtices of Peace, by whom any Order ſhall be made according to the purport of the ſaid Ordinance, or in the Court of Chancery, the full value of the Tythes adjudged
+<pb n="12" facs="tcp:170959:9"/>
+before the ſaid Juſtices, together with the treble Damages and Coſts, the which Coſts ſo to be de<g ref="char:EOLhyphen"/>poſited ſhall not exceed ten pounds, or in default thereof no appeals ſhall be received or admitted; and it is likewiſe Ordained, That the penalty of forty ſhillings upon Conſtables, petty Conſtables, and other Officers limitted and appointed in and by the ſaid Ordinance for neglecting to doe their Duties, ſhall be levied by way of diſtreſſe and ſale of the Goods of ſuch perſons ſo neglecting or refu<g ref="char:EOLhyphen"/>ſing, by Warrant from the ſaid Juſtices of Peace, and by ſuch perſons as ſhall by them be thereunto Authorized, the ſame to be imployed to the uſe of the Poor of that Pariſh where ſuch Conſtable, petty Conſtable or other Officer doth inhabite.</p>
+            <closer>
+               <signed>John Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="resolution">
+            <head>
+               <hi>29 Aprill, 1652.</hi> Reſolved upon the Queſtion by the Parliament.</head>
+            <p>That it be referred to the Committee appointed to receive propoſals for the bet<g ref="char:EOLhyphen"/>ter propogation of the Goſpel, to take into ſpeedy conſideration how a competent and convenient maintenance for a godly and able Miniſtery may be ſettled in liew of Tythes, and preſent their opinion therein to the Houſe, and that Tithes ſhall be paid as formerly, untill ſuch maintenance be ſettled.</p>
+            <closer>
+               <signed>Hen. Scohel Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
